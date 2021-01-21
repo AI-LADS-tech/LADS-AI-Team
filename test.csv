@@ -172,7 +172,7 @@ PassengerId,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
 1062,3,"Lithman, Mr. Simon",male,,0,0,S.O./P.P. 251,7.55,,S
 1063,3,"Zakarian, Mr. Ortin",male,27,0,0,2670,7.225,,C
 1064,3,"Dyker, Mr. Adolf Fredrik",male,23,1,0,347072,13.9,,S
-1065,3,"Torfa, Mr. Assad",male,,0,0,2673,7.2292,,C
+1065,3,"Torfa, Mr. Assad",male,,0,0,2673,7.2292,,d
 1066,3,"Asplund, Mr. Carl Oscar Vilhelm Gustafsson",male,40,1,5,347077,31.3875,,S
 1067,2,"Brown, Miss. Edith Eileen",female,15,0,2,29750,39,,S
 1068,2,"Sincock, Miss. Maude",female,20,0,0,C.A. 33112,36.75,,S
